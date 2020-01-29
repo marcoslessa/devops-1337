@@ -26,3 +26,5 @@ Provavelmente a causa desse problema é por conta da região em que a AMI foi cr
 2. Selecione a nova região.
 3. Clique no botão ```Copy AMI```.
 
+[< Voltar](../README.md)
+
